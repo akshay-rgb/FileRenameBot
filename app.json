@@ -1,4 +1,4 @@
-{
+ {
   "name": "TG Rename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
@@ -23,7 +23,14 @@
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
       "value": ""
-    
+    },
+    "APP_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
@@ -38,15 +45,6 @@
       "description": "chunk size that should be used with requests",
       "value": "128",
       "required": false
-},
-        "HEROKU_APP_NAME": {
-            "description": "given app name to the heroku app",
-            "required": false
-        },
-        "HEROKU_API_KEY": {
-            "description": "get a Heroku API key from http://dashboard.heroku.com/account",
-            "required": false
-
     }
   },
   "addons": [
@@ -66,6 +64,3 @@
     "worker": {
       "quantity": 1,
       "size": "free"
-    }
-  }
-}
