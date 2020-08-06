@@ -45,6 +45,15 @@
       "description": "chunk size that should be used with requests",
       "value": "128",
       "required": false
+},
+        "HEROKU_APP_NAME": {
+            "description": "given app name to the heroku app",
+            "required": false
+        },
+        "HEROKU_API_KEY": {
+            "description": "get a Heroku API key from http://dashboard.heroku.com/account",
+            "required": false
+
     }
   },
   "addons": [
