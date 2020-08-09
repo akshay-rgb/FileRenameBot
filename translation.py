@@ -30,7 +30,7 @@ class Translation(object):
 3.🔹 <b>I Can Also Convert Streamable Videos Into Document</b>"""
 ABOUT_USER =     
     
-""○ My Name : Rename Bot
+"""○ My Name : Rename Bot
 ○ Creator : ꧁☬⋆ТᎻᎬ༒ᏦᎥᏁᏳ༒C☢nτrͥ☢lͣlͫer⋆☬(https://t.me/Noob_admin)
 ○ Credits : Everyone in this journey
 ○ Language : Python3
@@ -40,4 +40,4 @@ ABOUT_USER =
 
 
 
-📜 Quote : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️""
+📜 Quote : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️"""
