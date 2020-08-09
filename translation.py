@@ -28,4 +28,16 @@ class Translation(object):
 1.🔹 <b>Send me any Telegram File.</b>
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b>
 3.🔹 <b>I Can Also Convert Streamable Videos Into Document</b>"""
+ABOUT_USER =     
+    
+""○ My Name : Rename Bot
+○ Creator : ꧁☬⋆ТᎻᎬ༒ᏦᎥᏁᏳ༒C☢nτrͥ☢lͣlͫer⋆☬(https://t.me/Noob_admin)
+○ Credits : Everyone in this journey
+○ Language : Python3
+○ Library : Pyrogram asyncio 0.16.1
+○ Source Code : [👉 Click Here](https://t.me/AdhavaaBiriyaniKittiyalo) 
+○ Server : Heroku
 
+
+
+📜 Quote : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️""
