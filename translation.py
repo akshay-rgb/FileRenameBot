@@ -6,7 +6,7 @@ class Translation(object):
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @Noob_admin "
+    
     DOWNLOAD_START = "<b>💢Downloading To My server !! pls Wait💢</b>"
     UPLOAD_START = "<b>♨️Downloading Completed Now I'm Uploading Into TG ♨️</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
@@ -27,10 +27,9 @@ class Translation(object):
     
 1.🔹 <b>Send me any Telegram File.</b>
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b>
-3.🔹 <b>I Can Also Convert Streamable Videos Into Document</b>"""
-ABOUT_USER =     
-    
-"""○ My Name : Rename Bot
+3.🔹 <b>I Can Also Convert Streamable Videos Into Document</b>""  
+    UPGRADE_TEXT = 
+""○ My Name : Rename Bot
 ○ Creator : ꧁☬⋆ТᎻᎬ༒ᏦᎥᏁᏳ༒C☢nτrͥ☢lͣlͫer⋆☬(https://t.me/Noob_admin)
 ○ Credits : Everyone in this journey
 ○ Language : Python3
@@ -40,4 +39,4 @@ ABOUT_USER =
 
 
 
-📜 Quote : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️"""
+📜 Quote : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️""
