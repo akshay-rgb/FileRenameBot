@@ -35,8 +35,6 @@ class Translation(object):
 ○ Language : Python3
 ○ Library : Pyrogram asyncio 0.16.1
 ○ Source Code : [👉 Click Here](https://t.me/AdhavaaBiriyaniKittiyalo) 
-○ Server : Heroku
+○ Server : Heroku""
 
 
-
-📜 Quote : ആരും പേടിക്കണ്ട എല്ലാവർക്കും കിട്ടും™️""
