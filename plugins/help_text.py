@@ -60,7 +60,7 @@ async def upgrade(bot, update):
     TRChatBase(update.from_user.id, update.text, "/about")
     await bot.send_message(
         chat_id=update.chat.id,
-        text=Translation.UPGRADE_TEXT,
+        text=Translation.ABOUT_USER,format(chat_id,plan_type,experies_at),
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
